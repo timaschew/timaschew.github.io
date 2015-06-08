@@ -34,10 +34,7 @@ footer {
   padding-bottom: 50px;
 }
 .page-break.misc {
-  padding-bottom: 280px;
-}
-.page-break-php {
-  padding-top: 40px;
+  padding-bottom: 230px;
 }
 
 .bar-expand {
@@ -46,44 +43,4 @@ footer {
 
 .copyright {
   display: none;
-}
-
-.javascript {
-  width: 90%;
-}
-.html {
-  width: 90%;
-}
-.coffee-jade-stylus {
-  width: 90%;
-}
-.make {
-  width: 60%;
-}
-.karma {
-  width: 60%;
-}
-.selenium {
-  width: 60%;
-}
-.nosql {
-  width: 60%;
-}
-.jenkins {
-  width: 60%;
-}
-.gulp {
-  width: 60%;
-}
-.php {
-  width: 30%;
-}
-.ruby {
-  width: 30%;
-}
-.chef {
-  width: 30%;
-}
-.angular {
-  width: 30%;
 }
