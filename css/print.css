@@ -1,0 +1,87 @@
+nav {
+  display: none;
+}
+
+/* scroll down */
+.scrolldown {
+  display: none;
+}
+
+footer {
+  display: none;
+}
+
+.columns.download {
+  display: none;
+}
+
+#about {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+#resume {
+  padding-top: 0;
+}
+
+.page-break {
+  display: block;
+}
+.page-break.work {
+  padding-bottom: 180px;
+}
+.page-break.skills {
+  padding-bottom: 50px;
+}
+.page-break.misc {
+  padding-bottom: 180px;
+}
+
+
+.bar-expand {
+   -webkit-print-color-adjust: exact;
+}
+
+.copyright {
+  display: none;
+}
+
+.javascript {
+  width: 90%;
+}
+.html {
+  width: 90%;
+}
+.coffee-jade-stylus {
+  width: 90%;
+}
+.make {
+  width: 60%;
+}
+.karma {
+  width: 60%;
+}
+.selenium {
+  width: 60%;
+}
+.nosql {
+  width: 60%;
+}
+.jenkins {
+  width: 60%;
+}
+.gulp {
+  width: 60%;
+}
+.php {
+  width: 30%;
+}
+.ruby {
+  width: 30%;
+}
+.chef {
+  width: 30%;
+}
+.angular {
+  width: 30%;
+}
