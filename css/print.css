@@ -34,9 +34,11 @@ footer {
   padding-bottom: 50px;
 }
 .page-break.misc {
-  padding-bottom: 180px;
+  padding-bottom: 280px;
 }
-
+.page-break-php {
+  padding-top: 40px;
+}
 
 .bar-expand {
    -webkit-print-color-adjust: exact;
