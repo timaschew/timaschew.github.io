@@ -34,11 +34,16 @@ footer {
   padding-bottom: 50px;
 }
 .page-break.misc {
-  padding-bottom: 230px;
+  padding-bottom: 280px;
 }
 
-.bar-expand {
+.bars li, .bar-expand {
    -webkit-print-color-adjust: exact;
+}
+
+li.page-break {
+  background: transparent;
+  height: 0px;
 }
 
 .copyright {
