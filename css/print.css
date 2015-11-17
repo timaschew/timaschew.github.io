@@ -37,10 +37,6 @@ footer {
   padding-bottom: 280px;
 }
 
-.bars li, .bar-expand {
-   -webkit-print-color-adjust: exact;
-}
-
 li.page-break {
   background: transparent;
   height: 0px;
@@ -49,3 +45,10 @@ li.page-break {
 .copyright {
   display: none;
 }
+
+/* TODO: adjust color and contrast for all sections, especially these */
+/*header, body, #about, #contact {
+  background: none;
+}
+
+*/
